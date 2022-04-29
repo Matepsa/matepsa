@@ -72,6 +72,9 @@
 .icon-smartphone:before {
   content: "\e90f";
 }
+.icon-users:before {
+  content: "\e90g";
+}
 .icon-mobile-phone:before {
   content: "\e910";
 }
